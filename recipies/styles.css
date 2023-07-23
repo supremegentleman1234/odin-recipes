@@ -1,0 +1,15 @@
+h1 {text-align: center;}       
+div {text-align: center;}
+        
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.recipe-list {
+        text-align: left; /* Set the text alignment to left for the list */
+        max-width: 600px; /* Optional: Limit the width of the recipe list for better readability */
+        margin: 0 auto; /* Optional: Center the recipe list within its container */
+        padding-left: 20px; /* Optional: Add some left padding for better indentation */
+    }
+
